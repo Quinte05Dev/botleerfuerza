@@ -1,0 +1,5 @@
+1- abre toda la carpeta desde vsc.
+2- crea el entorno virtual venv desde powershell con "python -m venv venv"
+3- activa el entorno virtual desde bash con "source venv/Scripts/activate"
+4- instala flask y python con "pip install flask" "pip install python"
+5- ejecuta la api con "python app.py"
